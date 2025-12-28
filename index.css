@@ -83,6 +83,19 @@ nav ul li a {
     gap: 20px;
 }
 
+#About {
+    width:1000px;
+    height:300px;
+    text-align: center;
+    
+    
+
+
+    
+}
+
+
+
 .box {
     width: 280px;
     box-sizing: border-box;
